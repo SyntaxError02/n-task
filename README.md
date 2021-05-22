@@ -1,5 +1,7 @@
 # Dog breeds
 
+The app is deployed on: https://syntaxerror02.github.io/n-task/
+
 <img width="170" alt="short-clip" src="/wireframes/giphy.gif">
 <br />
 
