@@ -7,6 +7,7 @@ import {
 import { AppContext } from '../App';
  
   function Dogs(props) {
+  console.log('got here')
 
     const appContext = React.useContext(AppContext);
     const { dogs, setDogs } = appContext;
